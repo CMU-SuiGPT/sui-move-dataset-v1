@@ -1,0 +1,1362 @@
+[submodule "move_repos/nilz3ro__suimon"]
+	path = move_repos/nilz3ro__suimon
+	url = https://github.com/nilz3ro/suimon.git
+[submodule "move_repos/movebit__movectf-5"]
+	path = move_repos/movebit__movectf-5
+	url = https://github.com/movebit/movectf-5.git
+[submodule "move_repos/baronPortalverse__suipad-contract"]
+	path = move_repos/baronPortalverse__suipad-contract
+	url = https://github.com/baronPortalverse/suipad-contract.git
+[submodule "move_repos/movebit__movectf-1"]
+	path = move_repos/movebit__movectf-1
+	url = https://github.com/movebit/movectf-1.git
+[submodule "move_repos/saruman9__move_ctf_writeup"]
+	path = move_repos/saruman9__move_ctf_writeup
+	url = https://github.com/saruman9/move_ctf_writeup.git
+[submodule "move_repos/theblokc__sui-dev-bootcamp-reference"]
+	path = move_repos/theblokc__sui-dev-bootcamp-reference
+	url = https://github.com/theblokc/sui-dev-bootcamp-reference.git
+[submodule "move_repos/arniebarnie__Sui-Move-Extended-STD"]
+	path = move_repos/arniebarnie__Sui-Move-Extended-STD
+	url = https://github.com/arniebarnie/Sui-Move-Extended-STD.git
+[submodule "move_repos/BeanExchange__perp-interface"]
+	path = move_repos/BeanExchange__perp-interface
+	url = https://github.com/BeanExchange/perp-interface.git
+[submodule "move_repos/0xBoji__sui-move-contract"]
+	path = move_repos/0xBoji__sui-move-contract
+	url = https://github.com/0xBoji/sui-move-contract.git
+[submodule "move_repos/LeoSagittarius27__Astro-SUI"]
+	path = move_repos/LeoSagittarius27__Astro-SUI
+	url = https://github.com/LeoSagittarius27/Astro-SUI.git
+[submodule "move_repos/interest-protocol__money-market"]
+	path = move_repos/interest-protocol__money-market
+	url = https://github.com/interest-protocol/money-market.git
+[submodule "move_repos/EmreSoftWareing__MoveonSuiProjesi1"]
+	path = move_repos/EmreSoftWareing__MoveonSuiProjesi1
+	url = https://github.com/EmreSoftWareing/MoveonSuiProjesi1.git
+[submodule "move_repos/withinfinity__withinfinity"]
+	path = move_repos/withinfinity__withinfinity
+	url = https://github.com/withinfinity/withinfinity.git
+[submodule "move_repos/suzukidavid__sui-move-track"]
+	path = move_repos/suzukidavid__sui-move-track
+	url = https://github.com/suzukidavid/sui-move-track.git
+[submodule "move_repos/sui-foundation__encode-sui-educate"]
+	path = move_repos/sui-foundation__encode-sui-educate
+	url = https://github.com/sui-foundation/encode-sui-educate.git
+[submodule "move_repos/Entropy-Foundation__dora-interface"]
+	path = move_repos/Entropy-Foundation__dora-interface
+	url = https://github.com/Entropy-Foundation/dora-interface.git
+[submodule "move_repos/pentagonxyz__movemate"]
+	path = move_repos/pentagonxyz__movemate
+	url = https://github.com/pentagonxyz/movemate.git
+[submodule "move_repos/georgedigkas__thirdparty-city-weather-oracle-nft-minter"]
+	path = move_repos/georgedigkas__thirdparty-city-weather-oracle-nft-minter
+	url = https://github.com/georgedigkas/thirdparty-city-weather-oracle-nft-minter.git
+[submodule "move_repos/0xAlec__lending_pool"]
+	path = move_repos/0xAlec__lending_pool
+	url = https://github.com/0xAlec/lending_pool.git
+[submodule "move_repos/dantheman8300__SuiMoveCTF"]
+	path = move_repos/dantheman8300__SuiMoveCTF
+	url = https://github.com/dantheman8300/SuiMoveCTF.git
+[submodule "move_repos/xander988__sui-nft-market"]
+	path = move_repos/xander988__sui-nft-market
+	url = https://github.com/xander988/sui-nft-market.git
+[submodule "move_repos/abhi3700__sui-playground"]
+	path = move_repos/abhi3700__sui-playground
+	url = https://github.com/abhi3700/sui-playground.git
+[submodule "move_repos/thinkAfCod__zk_nft"]
+	path = move_repos/thinkAfCod__zk_nft
+	url = https://github.com/thinkAfCod/zk_nft.git
+[submodule "move_repos/zengxinhai__sui-mobius-fe"]
+	path = move_repos/zengxinhai__sui-mobius-fe
+	url = https://github.com/zengxinhai/sui-mobius-fe.git
+[submodule "move_repos/dantenetwork__protocol-sui"]
+	path = move_repos/dantenetwork__protocol-sui
+	url = https://github.com/dantenetwork/protocol-sui.git
+[submodule "move_repos/Suia2023__suia"]
+	path = move_repos/Suia2023__suia
+	url = https://github.com/Suia2023/suia.git
+[submodule "move_repos/0xBoji__sui-swap"]
+	path = move_repos/0xBoji__sui-swap
+	url = https://github.com/0xBoji/sui-swap.git
+[submodule "move_repos/move-cn__tintin-bootcamp"]
+	path = move_repos/move-cn__tintin-bootcamp
+	url = https://github.com/move-cn/tintin-bootcamp.git
+[submodule "move_repos/CetusProtocol__integer-mate"]
+	path = move_repos/CetusProtocol__integer-mate
+	url = https://github.com/CetusProtocol/integer-mate.git
+[submodule "move_repos/AnimeSwap__sui-v1-core"]
+	path = move_repos/AnimeSwap__sui-v1-core
+	url = https://github.com/AnimeSwap/sui-v1-core.git
+[submodule "move_repos/corriente-labs__evm-sui-poc"]
+	path = move_repos/corriente-labs__evm-sui-poc
+	url = https://github.com/corriente-labs/evm-sui-poc.git
+[submodule "move_repos/web3-lab-dao__move-tutorial"]
+	path = move_repos/web3-lab-dao__move-tutorial
+	url = https://github.com/web3-lab-dao/move-tutorial.git
+[submodule "move_repos/movefuns__sui-ido"]
+	path = move_repos/movefuns__sui-ido
+	url = https://github.com/movefuns/sui-ido.git
+[submodule "move_repos/peeranha__peeranha-move"]
+	path = move_repos/peeranha__peeranha-move
+	url = https://github.com/peeranha/peeranha-move.git
+[submodule "move_repos/erhant__move-playground"]
+	path = move_repos/erhant__move-playground
+	url = https://github.com/erhant/move-playground.git
+[submodule "move_repos/ZKSocialLabs__zkp-verifier"]
+	path = move_repos/ZKSocialLabs__zkp-verifier
+	url = https://github.com/ZKSocialLabs/zkp-verifier.git
+[submodule "move_repos/AllinLabs__sui-move-example"]
+	path = move_repos/AllinLabs__sui-move-example
+	url = https://github.com/AllinLabs/sui-move-example.git
+[submodule "move_repos/tj-move-project__water-follow"]
+	path = move_repos/tj-move-project__water-follow
+	url = https://github.com/tj-move-project/water-follow.git
+[submodule "move_repos/josemvcerqueira__sui-dex-v2"]
+	path = move_repos/josemvcerqueira__sui-dex-v2
+	url = https://github.com/josemvcerqueira/sui-dex-v2.git
+[submodule "move_repos/tryanything-ai__anything_commerce"]
+	path = move_repos/tryanything-ai__anything_commerce
+	url = https://github.com/tryanything-ai/anything_commerce.git
+[submodule "move_repos/fundgao__awesome-move"]
+	path = move_repos/fundgao__awesome-move
+	url = https://github.com/fundgao/awesome-move.git
+[submodule "move_repos/nyfair__sui-trpgtool"]
+	path = move_repos/nyfair__sui-trpgtool
+	url = https://github.com/nyfair/sui-trpgtool.git
+[submodule "move_repos/MEDOAIT__sui1"]
+	path = move_repos/MEDOAIT__sui1
+	url = https://github.com/MEDOAIT/sui1.git
+[submodule "move_repos/gofenix__move-colearning"]
+	path = move_repos/gofenix__move-colearning
+	url = https://github.com/gofenix/move-colearning.git
+[submodule "move_repos/hyd628__sui_intro_workshop"]
+	path = move_repos/hyd628__sui_intro_workshop
+	url = https://github.com/hyd628/sui_intro_workshop.git
+[submodule "move_repos/bobyard__bobyard-contract"]
+	path = move_repos/bobyard__bobyard-contract
+	url = https://github.com/bobyard/bobyard-contract.git
+[submodule "move_repos/InfiniteAengus__sui-coinflip-contract"]
+	path = move_repos/InfiniteAengus__sui-coinflip-contract
+	url = https://github.com/InfiniteAengus/sui-coinflip-contract.git
+[submodule "move_repos/0xJackJun__sui-did"]
+	path = move_repos/0xJackJun__sui-did
+	url = https://github.com/0xJackJun/sui-did.git
+[submodule "move_repos/mtfuji25__button-wrappers-contracts-move"]
+	path = move_repos/mtfuji25__button-wrappers-contracts-move
+	url = https://github.com/mtfuji25/button-wrappers-contracts-move.git
+[submodule "move_repos/mario4tier__Move-Bootcamp-FinalProject"]
+	path = move_repos/mario4tier__Move-Bootcamp-FinalProject
+	url = https://github.com/mario4tier/Move-Bootcamp-FinalProject.git
+[submodule "move_repos/splabs-info__yousui_contract"]
+	path = move_repos/splabs-info__yousui_contract
+	url = https://github.com/splabs-info/yousui_contract.git
+[submodule "move_repos/ticketland-io__tl-smart-contracts"]
+	path = move_repos/ticketland-io__tl-smart-contracts
+	url = https://github.com/ticketland-io/tl-smart-contracts.git
+[submodule "move_repos/Suia2023__suiadrop"]
+	path = move_repos/Suia2023__suiadrop
+	url = https://github.com/Suia2023/suiadrop.git
+[submodule "move_repos/nullccxsy__SelfServiceLottery"]
+	path = move_repos/nullccxsy__SelfServiceLottery
+	url = https://github.com/nullccxsy/SelfServiceLottery.git
+[submodule "move_repos/SwiftNFT__SuiNFTMarket"]
+	path = move_repos/SwiftNFT__SuiNFTMarket
+	url = https://github.com/SwiftNFT/SuiNFTMarket.git
+[submodule "move_repos/khatriamit__example_one"]
+	path = move_repos/khatriamit__example_one
+	url = https://github.com/khatriamit/example_one.git
+[submodule "move_repos/muditsarda1122__NFT_Creator"]
+	path = move_repos/muditsarda1122__NFT_Creator
+	url = https://github.com/muditsarda1122/NFT_Creator.git
+[submodule "move_repos/0xriazaka__Sui-Tales-Marketplace"]
+	path = move_repos/0xriazaka__Sui-Tales-Marketplace
+	url = https://github.com/0xriazaka/Sui-Tales-Marketplace.git
+[submodule "move_repos/rn-santos227__04-sui-nft"]
+	path = move_repos/rn-santos227__04-sui-nft
+	url = https://github.com/rn-santos227/04-sui-nft.git
+[submodule "move_repos/Tamara-Ebi-Pere-Victor__Auction-SUI"]
+	path = move_repos/Tamara-Ebi-Pere-Victor__Auction-SUI
+	url = https://github.com/Tamara-Ebi-Pere-Victor/Auction-SUI.git
+[submodule "move_repos/josemvcerqueira__marc.ee-gilder"]
+	path = move_repos/josemvcerqueira__marc.ee-gilder
+	url = https://github.com/josemvcerqueira/marc.ee-gilder.git
+[submodule "move_repos/Bucket-Protocol__testnet-coins"]
+	path = move_repos/Bucket-Protocol__testnet-coins
+	url = https://github.com/Bucket-Protocol/testnet-coins.git
+[submodule "move_repos/scallop-io__sui-lending-protocol"]
+	path = move_repos/scallop-io__sui-lending-protocol
+	url = https://github.com/scallop-io/sui-lending-protocol.git
+[submodule "move_repos/ronanyeah__time-locked-balance"]
+	path = move_repos/ronanyeah__time-locked-balance
+	url = https://github.com/ronanyeah/time-locked-balance.git
+[submodule "move_repos/ronanyeah__mineral"]
+	path = move_repos/ronanyeah__mineral
+	url = https://github.com/ronanyeah/mineral.git
+[submodule "move_repos/move-cn__letsmove"]
+	path = move_repos/move-cn__letsmove
+	url = https://github.com/move-cn/letsmove.git
+[submodule "move_repos/Galliun__water_cooler"]
+	path = move_repos/Galliun__water_cooler
+	url = https://github.com/Galliun/water_cooler.git
+[submodule "move_repos/laurentroque__SuixBSA_hackathon"]
+	path = move_repos/laurentroque__SuixBSA_hackathon
+	url = https://github.com/laurentroque/SuixBSA_hackathon.git
+[submodule "move_repos/daisyYoY__SuiNft"]
+	path = move_repos/daisyYoY__SuiNft
+	url = https://github.com/daisyYoY/SuiNft.git
+[submodule "move_repos/puddle-finance__puddle-move"]
+	path = move_repos/puddle-finance__puddle-move
+	url = https://github.com/puddle-finance/puddle-move.git
+[submodule "move_repos/efficacy-finance__sniff-fun-package"]
+	path = move_repos/efficacy-finance__sniff-fun-package
+	url = https://github.com/efficacy-finance/sniff-fun-package.git
+[submodule "move_repos/otter-sec__sui-ctf-framework"]
+	path = move_repos/otter-sec__sui-ctf-framework
+	url = https://github.com/otter-sec/sui-ctf-framework.git
+[submodule "move_repos/RandyPen__sui-move-intro-course-zh"]
+	path = move_repos/RandyPen__sui-move-intro-course-zh
+	url = https://github.com/RandyPen/sui-move-intro-course-zh.git
+[submodule "move_repos/MystenLabs__controlled-treasury"]
+	path = move_repos/MystenLabs__controlled-treasury
+	url = https://github.com/MystenLabs/controlled-treasury.git
+[submodule "move_repos/naviprotocol__protocol-interface"]
+	path = move_repos/naviprotocol__protocol-interface
+	url = https://github.com/naviprotocol/protocol-interface.git
+[submodule "move_repos/bilgin-kocak__sui-zk-lost-found"]
+	path = move_repos/bilgin-kocak__sui-zk-lost-found
+	url = https://github.com/bilgin-kocak/sui-zk-lost-found.git
+[submodule "move_repos/tungtobe__sui-move-bootcamp"]
+	path = move_repos/tungtobe__sui-move-bootcamp
+	url = https://github.com/tungtobe/sui-move-bootcamp.git
+[submodule "move_repos/Bucket-Protocol__sui-mover-2024"]
+	path = move_repos/Bucket-Protocol__sui-mover-2024
+	url = https://github.com/Bucket-Protocol/sui-mover-2024.git
+[submodule "move_repos/switchboard-xyz__sui-sdk"]
+	path = move_repos/switchboard-xyz__sui-sdk
+	url = https://github.com/switchboard-xyz/sui-sdk.git
+[submodule "move_repos/angganion__subscribe_sui"]
+	path = move_repos/angganion__subscribe_sui
+	url = https://github.com/angganion/subscribe_sui.git
+[submodule "move_repos/OmniBTC__DolaProtocol"]
+	path = move_repos/OmniBTC__DolaProtocol
+	url = https://github.com/OmniBTC/DolaProtocol.git
+[submodule "move_repos/Mamoru-Foundation__contracts"]
+	path = move_repos/Mamoru-Foundation__contracts
+	url = https://github.com/Mamoru-Foundation/contracts.git
+[submodule "move_repos/Typus-Lab__typus-dov"]
+	path = move_repos/Typus-Lab__typus-dov
+	url = https://github.com/Typus-Lab/typus-dov.git
+[submodule "move_repos/interest-protocol__memez_fun"]
+	path = move_repos/interest-protocol__memez_fun
+	url = https://github.com/interest-protocol/memez_fun.git
+[submodule "move_repos/overmind-xyz__pool-party"]
+	path = move_repos/overmind-xyz__pool-party
+	url = https://github.com/overmind-xyz/pool-party.git
+[submodule "move_repos/simusud__arttoo"]
+	path = move_repos/simusud__arttoo
+	url = https://github.com/simusud/arttoo.git
+[submodule "move_repos/rocknwa__Sui-Token"]
+	path = move_repos/rocknwa__Sui-Token
+	url = https://github.com/rocknwa/Sui-Token.git
+[submodule "move_repos/ArifulIslam99__Slasher-Coin"]
+	path = move_repos/ArifulIslam99__Slasher-Coin
+	url = https://github.com/ArifulIslam99/Slasher-Coin.git
+[submodule "move_repos/MoveCampTeam8__stable-swap"]
+	path = move_repos/MoveCampTeam8__stable-swap
+	url = https://github.com/MoveCampTeam8/stable-swap.git
+[submodule "move_repos/hoanglongne__Sui-Co-paint"]
+	path = move_repos/hoanglongne__Sui-Co-paint
+	url = https://github.com/hoanglongne/Sui-Co-paint.git
+[submodule "move_repos/ParhamMoradi98__Move_Rust_NFT"]
+	path = move_repos/ParhamMoradi98__Move_Rust_NFT
+	url = https://github.com/ParhamMoradi98/Move_Rust_NFT.git
+[submodule "move_repos/SuiPass__suipass-contract"]
+	path = move_repos/SuiPass__suipass-contract
+	url = https://github.com/SuiPass/suipass-contract.git
+[submodule "move_repos/SIWorldLabs__siw-coins"]
+	path = move_repos/SIWorldLabs__siw-coins
+	url = https://github.com/SIWorldLabs/siw-coins.git
+[submodule "move_repos/Nui-finance__nui-finance"]
+	path = move_repos/Nui-finance__nui-finance
+	url = https://github.com/Nui-finance/nui-finance.git
+[submodule "move_repos/EthosWallet__ethos-squad-frontend"]
+	path = move_repos/EthosWallet__ethos-squad-frontend
+	url = https://github.com/EthosWallet/ethos-squad-frontend.git
+[submodule "move_repos/tokihita__sui-nft-smartcontract"]
+	path = move_repos/tokihita__sui-nft-smartcontract
+	url = https://github.com/tokihita/sui-nft-smartcontract.git
+[submodule "move_repos/balancednetwork__balanced-move-contracts"]
+	path = move_repos/balancednetwork__balanced-move-contracts
+	url = https://github.com/balancednetwork/balanced-move-contracts.git
+[submodule "move_repos/danaiballa__sui-color-nft"]
+	path = move_repos/danaiballa__sui-color-nft
+	url = https://github.com/danaiballa/sui-color-nft.git
+[submodule "move_repos/memenow__open-content-protocol"]
+	path = move_repos/memenow__open-content-protocol
+	url = https://github.com/memenow/open-content-protocol.git
+[submodule "move_repos/interest-protocol__zk-bag"]
+	path = move_repos/interest-protocol__zk-bag
+	url = https://github.com/interest-protocol/zk-bag.git
+[submodule "move_repos/aldrin-labs__Sui-Account-Abstraction"]
+	path = move_repos/aldrin-labs__Sui-Account-Abstraction
+	url = https://github.com/aldrin-labs/Sui-Account-Abstraction.git
+[submodule "move_repos/mirai-labs__prime-machin-contracts"]
+	path = move_repos/mirai-labs__prime-machin-contracts
+	url = https://github.com/mirai-labs/prime-machin-contracts.git
+[submodule "move_repos/Bucket-Protocol__raffle-paper"]
+	path = move_repos/Bucket-Protocol__raffle-paper
+	url = https://github.com/Bucket-Protocol/raffle-paper.git
+[submodule "move_repos/WhiteMatrixTech__move-castle-contract"]
+	path = move_repos/WhiteMatrixTech__move-castle-contract
+	url = https://github.com/WhiteMatrixTech/move-castle-contract.git
+[submodule "move_repos/tobias-rothmann__Challenge_Response_Kiosk"]
+	path = move_repos/tobias-rothmann__Challenge_Response_Kiosk
+	url = https://github.com/tobias-rothmann/Challenge_Response_Kiosk.git
+[submodule "move_repos/Tanmay53__sui-nft-example"]
+	path = move_repos/Tanmay53__sui-nft-example
+	url = https://github.com/Tanmay53/sui-nft-example.git
+[submodule "move_repos/10ambear__move_castle"]
+	path = move_repos/10ambear__move_castle
+	url = https://github.com/10ambear/move_castle.git
+[submodule "move_repos/movefuns__SuiStartrek"]
+	path = move_repos/movefuns__SuiStartrek
+	url = https://github.com/movefuns/SuiStartrek.git
+[submodule "move_repos/otter-sec__SuiTF"]
+	path = move_repos/otter-sec__SuiTF
+	url = https://github.com/otter-sec/SuiTF.git
+[submodule "move_repos/tiendv89__sui-liquidity-pool"]
+	path = move_repos/tiendv89__sui-liquidity-pool
+	url = https://github.com/tiendv89/sui-liquidity-pool.git
+[submodule "move_repos/movebit__movectf-6"]
+	path = move_repos/movebit__movectf-6
+	url = https://github.com/movebit/movectf-6.git
+[submodule "move_repos/CertiKProject__MOVE-CTF-2022"]
+	path = move_repos/CertiKProject__MOVE-CTF-2022
+	url = https://github.com/CertiKProject/MOVE-CTF-2022.git
+[submodule "move_repos/jackcpku__movebit-movectf-solution"]
+	path = move_repos/jackcpku__movebit-movectf-solution
+	url = https://github.com/jackcpku/movebit-movectf-solution.git
+[submodule "move_repos/pentagonxyz__move-oracles"]
+	path = move_repos/pentagonxyz__move-oracles
+	url = https://github.com/pentagonxyz/move-oracles.git
+[submodule "move_repos/Suia2023__SocialCoin"]
+	path = move_repos/Suia2023__SocialCoin
+	url = https://github.com/Suia2023/SocialCoin.git
+[submodule "move_repos/irohitb__basic-coin"]
+	path = move_repos/irohitb__basic-coin
+	url = https://github.com/irohitb/basic-coin.git
+[submodule "move_repos/hightop0924__chopsui-amm-smart-contract"]
+	path = move_repos/hightop0924__chopsui-amm-smart-contract
+	url = https://github.com/hightop0924/chopsui-amm-smart-contract.git
+[submodule "move_repos/AntMessinis__fantasy-game-sui-smart-contract"]
+	path = move_repos/AntMessinis__fantasy-game-sui-smart-contract
+	url = https://github.com/AntMessinis/fantasy-game-sui-smart-contract.git
+[submodule "move_repos/John-Atha__sui-intro"]
+	path = move_repos/John-Atha__sui-intro
+	url = https://github.com/John-Atha/sui-intro.git
+[submodule "move_repos/Origin-Byte__syrup"]
+	path = move_repos/Origin-Byte__syrup
+	url = https://github.com/Origin-Byte/syrup.git
+[submodule "move_repos/thinhnguyen897__sui_nft"]
+	path = move_repos/thinhnguyen897__sui_nft
+	url = https://github.com/thinhnguyen897/sui_nft.git
+[submodule "move_repos/zengxinhai__movectf"]
+	path = move_repos/zengxinhai__movectf
+	url = https://github.com/zengxinhai/movectf.git
+[submodule "move_repos/cozy-creator__capsules"]
+	path = move_repos/cozy-creator__capsules
+	url = https://github.com/cozy-creator/capsules.git
+[submodule "move_repos/Suia2023__suirelation"]
+	path = move_repos/Suia2023__suirelation
+	url = https://github.com/Suia2023/suirelation.git
+[submodule "move_repos/plor3r__foxgame-contracts"]
+	path = move_repos/plor3r__foxgame-contracts
+	url = https://github.com/plor3r/foxgame-contracts.git
+[submodule "move_repos/AntMessinis__password_container_sui_smart_contract"]
+	path = move_repos/AntMessinis__password_container_sui_smart_contract
+	url = https://github.com/AntMessinis/password_container_sui_smart_contract.git
+[submodule "move_repos/ashraf-kaltuma__sui-kes-swap"]
+	path = move_repos/ashraf-kaltuma__sui-kes-swap
+	url = https://github.com/ashraf-kaltuma/sui-kes-swap.git
+[submodule "move_repos/Iamknownasfesal__alligator"]
+	path = move_repos/Iamknownasfesal__alligator
+	url = https://github.com/Iamknownasfesal/alligator.git
+[submodule "move_repos/nathanramli__dynamic-oracle-adapter"]
+	path = move_repos/nathanramli__dynamic-oracle-adapter
+	url = https://github.com/nathanramli/dynamic-oracle-adapter.git
+[submodule "move_repos/belaunch-io__v1-core-modules"]
+	path = move_repos/belaunch-io__v1-core-modules
+	url = https://github.com/belaunch-io/v1-core-modules.git
+[submodule "move_repos/avcdsld__sakutaro-poem-move"]
+	path = move_repos/avcdsld__sakutaro-poem-move
+	url = https://github.com/avcdsld/sakutaro-poem-move.git
+[submodule "move_repos/chrisyy2003__sui-by-example"]
+	path = move_repos/chrisyy2003__sui-by-example
+	url = https://github.com/chrisyy2003/sui-by-example.git
+[submodule "move_repos/pentagonxyz__xyk-amm-move"]
+	path = move_repos/pentagonxyz__xyk-amm-move
+	url = https://github.com/pentagonxyz/xyk-amm-move.git
+[submodule "move_repos/Stulcy__sui_tinkering"]
+	path = move_repos/Stulcy__sui_tinkering
+	url = https://github.com/Stulcy/sui_tinkering.git
+[submodule "move_repos/faas3__faas3-move"]
+	path = move_repos/faas3__faas3-move
+	url = https://github.com/faas3/faas3-move.git
+[submodule "move_repos/movescriptions__market"]
+	path = move_repos/movescriptions__market
+	url = https://github.com/movescriptions/market.git
+[submodule "move_repos/damirka__ist-move-meetup-demos"]
+	path = move_repos/damirka__ist-move-meetup-demos
+	url = https://github.com/damirka/ist-move-meetup-demos.git
+[submodule "move_repos/Blockchain-Voting-Based-System__vodth-on-sui"]
+	path = move_repos/Blockchain-Voting-Based-System__vodth-on-sui
+	url = https://github.com/Blockchain-Voting-Based-System/vodth-on-sui.git
+[submodule "move_repos/wdshin__dmud"]
+	path = move_repos/wdshin__dmud
+	url = https://github.com/wdshin/dmud.git
+[submodule "move_repos/CreatorsDAO__move-co-learn"]
+	path = move_repos/CreatorsDAO__move-co-learn
+	url = https://github.com/CreatorsDAO/move-co-learn.git
+[submodule "move_repos/AftermathFinance__sui-move-inline"]
+	path = move_repos/AftermathFinance__sui-move-inline
+	url = https://github.com/AftermathFinance/sui-move-inline.git
+[submodule "move_repos/SuiGame__caesar-contract"]
+	path = move_repos/SuiGame__caesar-contract
+	url = https://github.com/SuiGame/caesar-contract.git
+[submodule "move_repos/infinite0731__HeroMarket-NFT-Trading-Sui"]
+	path = move_repos/infinite0731__HeroMarket-NFT-Trading-Sui
+	url = https://github.com/infinite0731/HeroMarket-NFT-Trading-Sui.git
+[submodule "move_repos/chengzhongnan__sui_move"]
+	path = move_repos/chengzhongnan__sui_move
+	url = https://github.com/chengzhongnan/sui_move.git
+[submodule "move_repos/vividnetwork__suiswap-contract"]
+	path = move_repos/vividnetwork__suiswap-contract
+	url = https://github.com/vividnetwork/suiswap-contract.git
+[submodule "move_repos/0xBoji__move-vietnam"]
+	path = move_repos/0xBoji__move-vietnam
+	url = https://github.com/0xBoji/move-vietnam.git
+[submodule "move_repos/goosebumps-farm__goosebumps-contract"]
+	path = move_repos/goosebumps-farm__goosebumps-contract
+	url = https://github.com/goosebumps-farm/goosebumps-contract.git
+[submodule "move_repos/kanari-network__library"]
+	path = move_repos/kanari-network__library
+	url = https://github.com/kanari-network/library.git
+[submodule "move_repos/move-for__suiromance"]
+	path = move_repos/move-for__suiromance
+	url = https://github.com/move-for/suiromance.git
+[submodule "move_repos/move-dao__move_tutorial"]
+	path = move_repos/move-dao__move_tutorial
+	url = https://github.com/move-dao/move_tutorial.git
+[submodule "move_repos/ShuiGame__CoreCode"]
+	path = move_repos/ShuiGame__CoreCode
+	url = https://github.com/ShuiGame/CoreCode.git
+[submodule "move_repos/osmantuzcu2__old_sui_marketplace"]
+	path = move_repos/osmantuzcu2__old_sui_marketplace
+	url = https://github.com/osmantuzcu2/old_sui_marketplace.git
+[submodule "move_repos/neha-decrypt__SUI-Project"]
+	path = move_repos/neha-decrypt__SUI-Project
+	url = https://github.com/neha-decrypt/SUI-Project.git
+[submodule "move_repos/Bucket-Protocol__Raffle-move"]
+	path = move_repos/Bucket-Protocol__Raffle-move
+	url = https://github.com/Bucket-Protocol/Raffle-move.git
+[submodule "move_repos/0xAlec__sui_test"]
+	path = move_repos/0xAlec__sui_test
+	url = https://github.com/0xAlec/sui_test.git
+[submodule "move_repos/Sui-Gallery__capywitter"]
+	path = move_repos/Sui-Gallery__capywitter
+	url = https://github.com/Sui-Gallery/capywitter.git
+[submodule "move_repos/movebit__sui-course-2023"]
+	path = move_repos/movebit__sui-course-2023
+	url = https://github.com/movebit/sui-course-2023.git
+[submodule "move_repos/hollow-leaf__sui-contract"]
+	path = move_repos/hollow-leaf__sui-contract
+	url = https://github.com/hollow-leaf/sui-contract.git
+[submodule "move_repos/0xBoji__godest-nft"]
+	path = move_repos/0xBoji__godest-nft
+	url = https://github.com/0xBoji/godest-nft.git
+[submodule "move_repos/procodeninja33__sui-bls-signature"]
+	path = move_repos/procodeninja33__sui-bls-signature
+	url = https://github.com/procodeninja33/sui-bls-signature.git
+[submodule "move_repos/chirpwireless__sui-nft"]
+	path = move_repos/chirpwireless__sui-nft
+	url = https://github.com/chirpwireless/sui-nft.git
+[submodule "move_repos/MystenLabs__move-book"]
+	path = move_repos/MystenLabs__move-book
+	url = https://github.com/MystenLabs/move-book.git
+[submodule "move_repos/tung1234566666666__bai-tap_78"]
+	path = move_repos/tung1234566666666__bai-tap_78
+	url = https://github.com/tung1234566666666/bai-tap_78.git
+[submodule "move_repos/suefay__euterpe-ip-nft"]
+	path = move_repos/suefay__euterpe-ip-nft
+	url = https://github.com/suefay/euterpe-ip-nft.git
+[submodule "move_repos/TeddyLin1997__sui-mint-token"]
+	path = move_repos/TeddyLin1997__sui-mint-token
+	url = https://github.com/TeddyLin1997/sui-mint-token.git
+[submodule "move_repos/battlemon-project__sui-contracts"]
+	path = move_repos/battlemon-project__sui-contracts
+	url = https://github.com/battlemon-project/sui-contracts.git
+[submodule "move_repos/DoctorNasa__sui_token"]
+	path = move_repos/DoctorNasa__sui_token
+	url = https://github.com/DoctorNasa/sui_token.git
+[submodule "move_repos/4meta5__suede"]
+	path = move_repos/4meta5__suede
+	url = https://github.com/4meta5/suede.git
+[submodule "move_repos/Dearop__LIQUIDITY_POLL1"]
+	path = move_repos/Dearop__LIQUIDITY_POLL1
+	url = https://github.com/Dearop/LIQUIDITY_POLL1.git
+[submodule "move_repos/0xobelisk__quick_start"]
+	path = move_repos/0xobelisk__quick_start
+	url = https://github.com/0xobelisk/quick_start.git
+[submodule "move_repos/akdoganalibugra__move-on-sui-learn"]
+	path = move_repos/akdoganalibugra__move-on-sui-learn
+	url = https://github.com/akdoganalibugra/move-on-sui-learn.git
+[submodule "move_repos/Purelend-xyz__PureLend-contract"]
+	path = move_repos/Purelend-xyz__PureLend-contract
+	url = https://github.com/Purelend-xyz/PureLend-contract.git
+[submodule "move_repos/blackchain43__suiverse"]
+	path = move_repos/blackchain43__suiverse
+	url = https://github.com/blackchain43/suiverse.git
+[submodule "move_repos/xydas97__Move-Workshop-GR"]
+	path = move_repos/xydas97__Move-Workshop-GR
+	url = https://github.com/xydas97/Move-Workshop-GR.git
+[submodule "move_repos/elzaituna__sui_malle"]
+	path = move_repos/elzaituna__sui_malle
+	url = https://github.com/elzaituna/sui_malle.git
+[submodule "move_repos/LiquidLogic-Tech__LiquidLink-interface"]
+	path = move_repos/LiquidLogic-Tech__LiquidLink-interface
+	url = https://github.com/LiquidLogic-Tech/LiquidLink-interface.git
+[submodule "move_repos/Npiece__npunk-sui-move"]
+	path = move_repos/Npiece__npunk-sui-move
+	url = https://github.com/Npiece/npunk-sui-move.git
+[submodule "move_repos/guboc11__Shall-We-Move"]
+	path = move_repos/guboc11__Shall-We-Move
+	url = https://github.com/guboc11/Shall-We-Move.git
+[submodule "move_repos/Suia2023__suia-token"]
+	path = move_repos/Suia2023__suia-token
+	url = https://github.com/Suia2023/suia-token.git
+[submodule "move_repos/sui-potatoes__app"]
+	path = move_repos/sui-potatoes__app
+	url = https://github.com/sui-potatoes/app.git
+[submodule "move_repos/MystenLabs__suins-contracts"]
+	path = move_repos/MystenLabs__suins-contracts
+	url = https://github.com/MystenLabs/suins-contracts.git
+[submodule "move_repos/OmniBTC__Sui-AMM-swap"]
+	path = move_repos/OmniBTC__Sui-AMM-swap
+	url = https://github.com/OmniBTC/Sui-AMM-swap.git
+[submodule "move_repos/devarogundade__orbital"]
+	path = move_repos/devarogundade__orbital
+	url = https://github.com/devarogundade/orbital.git
+[submodule "move_repos/0xQbit__learn-sui-move"]
+	path = move_repos/0xQbit__learn-sui-move
+	url = https://github.com/0xQbit/learn-sui-move.git
+[submodule "move_repos/swheel-sui__swheel-core"]
+	path = move_repos/swheel-sui__swheel-core
+	url = https://github.com/swheel-sui/swheel-core.git
+[submodule "move_repos/erayack__suicide-game"]
+	path = move_repos/erayack__suicide-game
+	url = https://github.com/erayack/suicide-game.git
+[submodule "move_repos/Suia2023__momentx-sui-contracts"]
+	path = move_repos/Suia2023__momentx-sui-contracts
+	url = https://github.com/Suia2023/momentx-sui-contracts.git
+[submodule "move_repos/Web3-Builders-Alliance__warrior"]
+	path = move_repos/Web3-Builders-Alliance__warrior
+	url = https://github.com/Web3-Builders-Alliance/warrior.git
+[submodule "move_repos/interest-protocol__hooks"]
+	path = move_repos/interest-protocol__hooks
+	url = https://github.com/interest-protocol/hooks.git
+[submodule "move_repos/Alina-chan__suispresso"]
+	path = move_repos/Alina-chan__suispresso
+	url = https://github.com/Alina-chan/suispresso.git
+[submodule "move_repos/hemanthbhushan__object_transfer"]
+	path = move_repos/hemanthbhushan__object_transfer
+	url = https://github.com/hemanthbhushan/object_transfer.git
+[submodule "move_repos/miriam-001__Learning-Management-System"]
+	path = move_repos/miriam-001__Learning-Management-System
+	url = https://github.com/miriam-001/Learning-Management-System.git
+[submodule "move_repos/vv1133__fox_swap"]
+	path = move_repos/vv1133__fox_swap
+	url = https://github.com/vv1133/fox_swap.git
+[submodule "move_repos/berkayaktunc__devhub"]
+	path = move_repos/berkayaktunc__devhub
+	url = https://github.com/berkayaktunc/devhub.git
+[submodule "move_repos/lemanh99__sui-bootcamp-project"]
+	path = move_repos/lemanh99__sui-bootcamp-project
+	url = https://github.com/lemanh99/sui-bootcamp-project.git
+[submodule "move_repos/Nuel-osas__bounty"]
+	path = move_repos/Nuel-osas__bounty
+	url = https://github.com/Nuel-osas/bounty.git
+[submodule "move_repos/JacobMaciejewski__Simple-SUI-DEX-dApp"]
+	path = move_repos/JacobMaciejewski__Simple-SUI-DEX-dApp
+	url = https://github.com/JacobMaciejewski/Simple-SUI-DEX-dApp.git
+[submodule "move_repos/alpkanoz__sui-mini-hackathon"]
+	path = move_repos/alpkanoz__sui-mini-hackathon
+	url = https://github.com/alpkanoz/sui-mini-hackathon.git
+[submodule "move_repos/duedme__uno-game-sui"]
+	path = move_repos/duedme__uno-game-sui
+	url = https://github.com/duedme/uno-game-sui.git
+[submodule "move_repos/interest-protocol__coin-x-oracle"]
+	path = move_repos/interest-protocol__coin-x-oracle
+	url = https://github.com/interest-protocol/coin-x-oracle.git
+[submodule "move_repos/paschal533__crowdflow"]
+	path = move_repos/paschal533__crowdflow
+	url = https://github.com/paschal533/crowdflow.git
+[submodule "move_repos/DeSuiLabs__DeSuiCoinFlip-Contract-V2"]
+	path = move_repos/DeSuiLabs__DeSuiCoinFlip-Contract-V2
+	url = https://github.com/DeSuiLabs/DeSuiCoinFlip-Contract-V2.git
+[submodule "move_repos/jvc-byte__AidChainXpress"]
+	path = move_repos/jvc-byte__AidChainXpress
+	url = https://github.com/jvc-byte/AidChainXpress.git
+[submodule "move_repos/mirai-labs__mirailocker"]
+	path = move_repos/mirai-labs__mirailocker
+	url = https://github.com/mirai-labs/mirailocker.git
+[submodule "move_repos/Tevin-Isaac__sui-marketplace-move"]
+	path = move_repos/Tevin-Isaac__sui-marketplace-move
+	url = https://github.com/Tevin-Isaac/sui-marketplace-move.git
+[submodule "move_repos/MystenLabs__sui-native-randomness"]
+	path = move_repos/MystenLabs__sui-native-randomness
+	url = https://github.com/MystenLabs/sui-native-randomness.git
+[submodule "move_repos/MystenLabs__satoshi-coin-flip"]
+	path = move_repos/MystenLabs__satoshi-coin-flip
+	url = https://github.com/MystenLabs/satoshi-coin-flip.git
+[submodule "move_repos/wdshin__rust-sui-examples"]
+	path = move_repos/wdshin__rust-sui-examples
+	url = https://github.com/wdshin/rust-sui-examples.git
+[submodule "move_repos/superfineorg__sc-sui-core"]
+	path = move_repos/superfineorg__sc-sui-core
+	url = https://github.com/superfineorg/sc-sui-core.git
+[submodule "move_repos/warrenshiv__farm-work-chain-move"]
+	path = move_repos/warrenshiv__farm-work-chain-move
+	url = https://github.com/warrenshiv/farm-work-chain-move.git
+[submodule "move_repos/interest-protocol__move-templates"]
+	path = move_repos/interest-protocol__move-templates
+	url = https://github.com/interest-protocol/move-templates.git
+[submodule "move_repos/4-point-0__sui_workshop"]
+	path = move_repos/4-point-0__sui_workshop
+	url = https://github.com/4-point-0/sui_workshop.git
+[submodule "move_repos/ShallWeMove__Overflow2024"]
+	path = move_repos/ShallWeMove__Overflow2024
+	url = https://github.com/ShallWeMove/Overflow2024.git
+[submodule "move_repos/vanthaita__sui-move-nft"]
+	path = move_repos/vanthaita__sui-move-nft
+	url = https://github.com/vanthaita/sui-move-nft.git
+[submodule "move_repos/blockchainlover2019__Escrow-Move"]
+	path = move_repos/blockchainlover2019__Escrow-Move
+	url = https://github.com/blockchainlover2019/Escrow-Move.git
+[submodule "move_repos/Everest-Ventures-Group__Multisig"]
+	path = move_repos/Everest-Ventures-Group__Multisig
+	url = https://github.com/Everest-Ventures-Group/Multisig.git
+[submodule "move_repos/25teddy__sui_savings_contract"]
+	path = move_repos/25teddy__sui_savings_contract
+	url = https://github.com/25teddy/sui_savings_contract.git
+[submodule "move_repos/Consensus-Hold-Em__thm-contract"]
+	path = move_repos/Consensus-Hold-Em__thm-contract
+	url = https://github.com/Consensus-Hold-Em/thm-contract.git
+[submodule "move_repos/MystenLabs__deepbookv3"]
+	path = move_repos/MystenLabs__deepbookv3
+	url = https://github.com/MystenLabs/deepbookv3.git
+[submodule "move_repos/Bucket-Protocol__fountain"]
+	path = move_repos/Bucket-Protocol__fountain
+	url = https://github.com/Bucket-Protocol/fountain.git
+[submodule "move_repos/turbos-finance__turbos-sui-move-interface"]
+	path = move_repos/turbos-finance__turbos-sui-move-interface
+	url = https://github.com/turbos-finance/turbos-sui-move-interface.git
+[submodule "move_repos/kyunghyunHan__sui_coin"]
+	path = move_repos/kyunghyunHan__sui_coin
+	url = https://github.com/kyunghyunHan/sui_coin.git
+[submodule "move_repos/movefuns__movefuns"]
+	path = move_repos/movefuns__movefuns
+	url = https://github.com/movefuns/movefuns.git
+[submodule "move_repos/tamago-labs__legato-finance"]
+	path = move_repos/tamago-labs__legato-finance
+	url = https://github.com/tamago-labs/legato-finance.git
+[submodule "move_repos/allartprotocol__suxo-sui"]
+	path = move_repos/allartprotocol__suxo-sui
+	url = https://github.com/allartprotocol/suxo-sui.git
+[submodule "move_repos/pentagonxyz__multisig-wallet-move"]
+	path = move_repos/pentagonxyz__multisig-wallet-move
+	url = https://github.com/pentagonxyz/multisig-wallet-move.git
+[submodule "move_repos/afikah-aap__Aap"]
+	path = move_repos/afikah-aap__Aap
+	url = https://github.com/afikah-aap/Aap.git
+[submodule "move_repos/gardenialiu2__syndeo"]
+	path = move_repos/gardenialiu2__syndeo
+	url = https://github.com/gardenialiu2/syndeo.git
+[submodule "move_repos/javac-suimo__suimo"]
+	path = move_repos/javac-suimo__suimo
+	url = https://github.com/javac-suimo/suimo.git
+[submodule "move_repos/Seymagocmez__votecontractsui"]
+	path = move_repos/Seymagocmez__votecontractsui
+	url = https://github.com/Seymagocmez/votecontractsui.git
+[submodule "move_repos/Ylabs-io__ylabs-contract"]
+	path = move_repos/Ylabs-io__ylabs-contract
+	url = https://github.com/Ylabs-io/ylabs-contract.git
+[submodule "move_repos/OmniBTC__OmniBridge"]
+	path = move_repos/OmniBTC__OmniBridge
+	url = https://github.com/OmniBTC/OmniBridge.git
+[submodule "move_repos/Subaashgautam__sui-candymachine"]
+	path = move_repos/Subaashgautam__sui-candymachine
+	url = https://github.com/Subaashgautam/sui-candymachine.git
+[submodule "move_repos/coming-chat__sui-cat"]
+	path = move_repos/coming-chat__sui-cat
+	url = https://github.com/coming-chat/sui-cat.git
+[submodule "move_repos/overmind-xyz__nft-creator"]
+	path = move_repos/overmind-xyz__nft-creator
+	url = https://github.com/overmind-xyz/nft-creator.git
+[submodule "move_repos/interest-protocol__interest-lst"]
+	path = move_repos/interest-protocol__interest-lst
+	url = https://github.com/interest-protocol/interest-lst.git
+[submodule "move_repos/sdn0303__learning-sui"]
+	path = move_repos/sdn0303__learning-sui
+	url = https://github.com/sdn0303/learning-sui.git
+[submodule "move_repos/CetusProtocol__cetus-amm"]
+	path = move_repos/CetusProtocol__cetus-amm
+	url = https://github.com/CetusProtocol/cetus-amm.git
+[submodule "move_repos/Eis-D-Z__Web3BuildersAlliance"]
+	path = move_repos/Eis-D-Z__Web3BuildersAlliance
+	url = https://github.com/Eis-D-Z/Web3BuildersAlliance.git
+[submodule "move_repos/jhuhnke__sui-shitcoin"]
+	path = move_repos/jhuhnke__sui-shitcoin
+	url = https://github.com/jhuhnke/sui-shitcoin.git
+[submodule "move_repos/fourWayz__Sui-DeFi-Development"]
+	path = move_repos/fourWayz__Sui-DeFi-Development
+	url = https://github.com/fourWayz/Sui-DeFi-Development.git
+[submodule "move_repos/CasuinoOfficial__pump"]
+	path = move_repos/CasuinoOfficial__pump
+	url = https://github.com/CasuinoOfficial/pump.git
+[submodule "move_repos/suidouble__suidouble_metadata"]
+	path = move_repos/suidouble__suidouble_metadata
+	url = https://github.com/suidouble/suidouble_metadata.git
+[submodule "move_repos/movernance__movernance-core"]
+	path = move_repos/movernance__movernance-core
+	url = https://github.com/movernance/movernance-core.git
+[submodule "move_repos/MetaTrustLabs__ctf"]
+	path = move_repos/MetaTrustLabs__ctf
+	url = https://github.com/MetaTrustLabs/ctf.git
+[submodule "move_repos/PLoperu__appointment_scheduling"]
+	path = move_repos/PLoperu__appointment_scheduling
+	url = https://github.com/PLoperu/appointment_scheduling.git
+[submodule "move_repos/Iamknownasfesal__generis-dao"]
+	path = move_repos/Iamknownasfesal__generis-dao
+	url = https://github.com/Iamknownasfesal/generis-dao.git
+[submodule "move_repos/interest-protocol__suitears"]
+	path = move_repos/interest-protocol__suitears
+	url = https://github.com/interest-protocol/suitears.git
+[submodule "move_repos/Ivangao23__wallet"]
+	path = move_repos/Ivangao23__wallet
+	url = https://github.com/Ivangao23/wallet.git
+[submodule "move_repos/shinamicorp__account-graph"]
+	path = move_repos/shinamicorp__account-graph
+	url = https://github.com/shinamicorp/account-graph.git
+[submodule "move_repos/uvd__sui-swap-course"]
+	path = move_repos/uvd__sui-swap-course
+	url = https://github.com/uvd/sui-swap-course.git
+[submodule "move_repos/StefPler__move_training"]
+	path = move_repos/StefPler__move_training
+	url = https://github.com/StefPler/move_training.git
+[submodule "move_repos/ahab617__gilder"]
+	path = move_repos/ahab617__gilder
+	url = https://github.com/ahab617/gilder.git
+[submodule "move_repos/amnn__nftrpg"]
+	path = move_repos/amnn__nftrpg
+	url = https://github.com/amnn/nftrpg.git
+[submodule "move_repos/blackchain43__sui-transferable-fungible-token"]
+	path = move_repos/blackchain43__sui-transferable-fungible-token
+	url = https://github.com/blackchain43/sui-transferable-fungible-token.git
+[submodule "move_repos/Eis-D-Z__learn_move"]
+	path = move_repos/Eis-D-Z__learn_move
+	url = https://github.com/Eis-D-Z/learn_move.git
+[submodule "move_repos/trillionxdev__suilette"]
+	path = move_repos/trillionxdev__suilette
+	url = https://github.com/trillionxdev/suilette.git
+[submodule "move_repos/CetusProtocol__move-stl"]
+	path = move_repos/CetusProtocol__move-stl
+	url = https://github.com/CetusProtocol/move-stl.git
+[submodule "move_repos/rtmtree__longshot-jackpot-contract-sui"]
+	path = move_repos/rtmtree__longshot-jackpot-contract-sui
+	url = https://github.com/rtmtree/longshot-jackpot-contract-sui.git
+[submodule "move_repos/Weminal-labs__wecards-contract"]
+	path = move_repos/Weminal-labs__wecards-contract
+	url = https://github.com/Weminal-labs/wecards-contract.git
+[submodule "move_repos/upupnoah__sui-ticketing-system"]
+	path = move_repos/upupnoah__sui-ticketing-system
+	url = https://github.com/upupnoah/sui-ticketing-system.git
+[submodule "move_repos/D3stinn3__SuiGame"]
+	path = move_repos/D3stinn3__SuiGame
+	url = https://github.com/D3stinn3/SuiGame.git
+[submodule "move_repos/movescriptions__movescriptions"]
+	path = move_repos/movescriptions__movescriptions
+	url = https://github.com/movescriptions/movescriptions.git
+[submodule "move_repos/MystenLabs__sui_official"]
+	path = move_repos/MystenLabs__sui_official
+	url = https://github.com/MystenLabs/sui.git
+[submodule "move_repos/cozy-creator__noot-standard"]
+	path = move_repos/cozy-creator__noot-standard
+	url = https://github.com/cozy-creator/noot-standard.git
+[submodule "move_repos/Xunle1__sui-move-learning"]
+	path = move_repos/Xunle1__sui-move-learning
+	url = https://github.com/Xunle1/sui-move-learning.git
+[submodule "move_repos/MystenLabs__sui-fantasy"]
+	path = move_repos/MystenLabs__sui-fantasy
+	url = https://github.com/MystenLabs/sui-fantasy.git
+[submodule "move_repos/kisakaken__tile_fusion"]
+	path = move_repos/kisakaken__tile_fusion
+	url = https://github.com/kisakaken/tile_fusion.git
+[submodule "move_repos/RandyPen__certificate-SBT"]
+	path = move_repos/RandyPen__certificate-SBT
+	url = https://github.com/RandyPen/certificate-SBT.git
+[submodule "move_repos/Eis-D-Z__lucky_cat_examples"]
+	path = move_repos/Eis-D-Z__lucky_cat_examples
+	url = https://github.com/Eis-D-Z/lucky_cat_examples.git
+[submodule "move_repos/zcy1024__Dacade-SuiMove-LogisticsCompany"]
+	path = move_repos/zcy1024__Dacade-SuiMove-LogisticsCompany
+	url = https://github.com/zcy1024/Dacade-SuiMove-LogisticsCompany.git
+[submodule "move_repos/lemanh99__slot-machine-move"]
+	path = move_repos/lemanh99__slot-machine-move
+	url = https://github.com/lemanh99/slot-machine-move.git
+[submodule "move_repos/rn-santos227__02-sui-contract"]
+	path = move_repos/rn-santos227__02-sui-contract
+	url = https://github.com/rn-santos227/02-sui-contract.git
+[submodule "move_repos/DigiTrust369__dgt_sui_tracker"]
+	path = move_repos/DigiTrust369__dgt_sui_tracker
+	url = https://github.com/DigiTrust369/dgt_sui_tracker.git
+[submodule "move_repos/AndRockSYS__overmind-solutions"]
+	path = move_repos/AndRockSYS__overmind-solutions
+	url = https://github.com/AndRockSYS/overmind-solutions.git
+[submodule "move_repos/Jarekkkkk__SuiStarterk"]
+	path = move_repos/Jarekkkkk__SuiStarterk
+	url = https://github.com/Jarekkkkk/SuiStarterk.git
+[submodule "move_repos/baoanh1310__sui-upgrade-test"]
+	path = move_repos/baoanh1310__sui-upgrade-test
+	url = https://github.com/baoanh1310/sui-upgrade-test.git
+[submodule "move_repos/hemanthbhushan__book_my_ticket_sui_move"]
+	path = move_repos/hemanthbhushan__book_my_ticket_sui_move
+	url = https://github.com/hemanthbhushan/book_my_ticket_sui_move.git
+[submodule "move_repos/axelarnetwork__axelar-cgp-sui"]
+	path = move_repos/axelarnetwork__axelar-cgp-sui
+	url = https://github.com/axelarnetwork/axelar-cgp-sui.git
+[submodule "move_repos/JustaLiang__startrek-poap"]
+	path = move_repos/JustaLiang__startrek-poap
+	url = https://github.com/JustaLiang/startrek-poap.git
+[submodule "move_repos/AmaanSayyad__SuiStream"]
+	path = move_repos/AmaanSayyad__SuiStream
+	url = https://github.com/AmaanSayyad/SuiStream.git
+[submodule "move_repos/Travel-Swap__travelswap-reward-token"]
+	path = move_repos/Travel-Swap__travelswap-reward-token
+	url = https://github.com/Travel-Swap/travelswap-reward-token.git
+[submodule "move_repos/DefiBound__wrapper"]
+	path = move_repos/DefiBound__wrapper
+	url = https://github.com/DefiBound/wrapper.git
+[submodule "move_repos/hamster-template__sui_games"]
+	path = move_repos/hamster-template__sui_games
+	url = https://github.com/hamster-template/sui_games.git
+[submodule "move_repos/skaunov__htlc"]
+	path = move_repos/skaunov__htlc
+	url = https://github.com/skaunov/htlc.git
+[submodule "move_repos/fuyutarow__zksui"]
+	path = move_repos/fuyutarow__zksui
+	url = https://github.com/fuyutarow/zksui.git
+[submodule "move_repos/Zeroc0077__Sui-Basecamp-WriteUp"]
+	path = move_repos/Zeroc0077__Sui-Basecamp-WriteUp
+	url = https://github.com/Zeroc0077/Sui-Basecamp-WriteUp.git
+[submodule "move_repos/Typus-Lab__sui-dev-token"]
+	path = move_repos/Typus-Lab__sui-dev-token
+	url = https://github.com/Typus-Lab/sui-dev-token.git
+[submodule "move_repos/CetusProtocol__cetus-clmm-interface"]
+	path = move_repos/CetusProtocol__cetus-clmm-interface
+	url = https://github.com/CetusProtocol/cetus-clmm-interface.git
+[submodule "move_repos/FarzeenKist__SUI-Submission"]
+	path = move_repos/FarzeenKist__SUI-Submission
+	url = https://github.com/FarzeenKist/SUI-Submission.git
+[submodule "move_repos/interest-protocol__su"]
+	path = move_repos/interest-protocol__su
+	url = https://github.com/interest-protocol/su.git
+[submodule "move_repos/movebit__movectf2024-day1"]
+	path = move_repos/movebit__movectf2024-day1
+	url = https://github.com/movebit/movectf2024-day1.git
+[submodule "move_repos/move-cn__letsmove-ctf"]
+	path = move_repos/move-cn__letsmove-ctf
+	url = https://github.com/move-cn/letsmove-ctf.git
+[submodule "move_repos/Eis-D-Z__university_club"]
+	path = move_repos/Eis-D-Z__university_club
+	url = https://github.com/Eis-D-Z/university_club.git
+[submodule "move_repos/aldrin-labs__ramm-sui"]
+	path = move_repos/aldrin-labs__ramm-sui
+	url = https://github.com/aldrin-labs/ramm-sui.git
+[submodule "move_repos/tjjd4__Hackathon-GDN"]
+	path = move_repos/tjjd4__Hackathon-GDN
+	url = https://github.com/tjjd4/Hackathon-GDN.git
+[submodule "move_repos/v1xingyue__fastnft"]
+	path = move_repos/v1xingyue__fastnft
+	url = https://github.com/v1xingyue/fastnft.git
+[submodule "move_repos/interest-protocol__memez-swap"]
+	path = move_repos/interest-protocol__memez-swap
+	url = https://github.com/interest-protocol/memez-swap.git
+[submodule "move_repos/linnefromice__move_practice_first"]
+	path = move_repos/linnefromice__move_practice_first
+	url = https://github.com/linnefromice/move_practice_first.git
+[submodule "move_repos/Phonbopit__try-sui"]
+	path = move_repos/Phonbopit__try-sui
+	url = https://github.com/Phonbopit/try-sui.git
+[submodule "move_repos/RyuFinance__move_contracts"]
+	path = move_repos/RyuFinance__move_contracts
+	url = https://github.com/RyuFinance/move_contracts.git
+[submodule "move_repos/MystenLabs__sui-axelar"]
+	path = move_repos/MystenLabs__sui-axelar
+	url = https://github.com/MystenLabs/sui-axelar.git
+[submodule "move_repos/Contribution-DAO__sui-move-intro-course-thai"]
+	path = move_repos/Contribution-DAO__sui-move-intro-course-thai
+	url = https://github.com/Contribution-DAO/sui-move-intro-course-thai.git
+[submodule "move_repos/WGB5445__Sui-NFT-Startrek"]
+	path = move_repos/WGB5445__Sui-NFT-Startrek
+	url = https://github.com/WGB5445/Sui-NFT-Startrek.git
+[submodule "move_repos/damirka__battle-game"]
+	path = move_repos/damirka__battle-game
+	url = https://github.com/damirka/battle-game.git
+[submodule "move_repos/move-cn__movecastle"]
+	path = move_repos/move-cn__movecastle
+	url = https://github.com/move-cn/movecastle.git
+[submodule "move_repos/OwlitLabs__sui-amm"]
+	path = move_repos/OwlitLabs__sui-amm
+	url = https://github.com/OwlitLabs/sui-amm.git
+[submodule "move_repos/abass-shadow__sui"]
+	path = move_repos/abass-shadow__sui
+	url = https://github.com/abass-shadow/sui.git
+[submodule "move_repos/Zeroc0077__move-ctf-challenges"]
+	path = move_repos/Zeroc0077__move-ctf-challenges
+	url = https://github.com/Zeroc0077/move-ctf-challenges.git
+[submodule "move_repos/JustaLiang__movebit-ctf-solution-2022"]
+	path = move_repos/JustaLiang__movebit-ctf-solution-2022
+	url = https://github.com/JustaLiang/movebit-ctf-solution-2022.git
+[submodule "move_repos/KyrinCode__sui-move-amm-uniswapV2"]
+	path = move_repos/KyrinCode__sui-move-amm-uniswapV2
+	url = https://github.com/KyrinCode/sui-move-amm-uniswapV2.git
+[submodule "move_repos/coming-chat__sui-red-packet"]
+	path = move_repos/coming-chat__sui-red-packet
+	url = https://github.com/coming-chat/sui-red-packet.git
+[submodule "move_repos/zengxinhai__sui-stake-protocol"]
+	path = move_repos/zengxinhai__sui-stake-protocol
+	url = https://github.com/zengxinhai/sui-stake-protocol.git
+[submodule "move_repos/jerrybaoo__play-move"]
+	path = move_repos/jerrybaoo__play-move
+	url = https://github.com/jerrybaoo/play-move.git
+[submodule "move_repos/Whitehare2023__sui_codes"]
+	path = move_repos/Whitehare2023__sui_codes
+	url = https://github.com/Whitehare2023/sui_codes.git
+[submodule "move_repos/kunalabs-io__sui-smart-contracts"]
+	path = move_repos/kunalabs-io__sui-smart-contracts
+	url = https://github.com/kunalabs-io/sui-smart-contracts.git
+[submodule "move_repos/MystenLabs__walrus-docs"]
+	path = move_repos/MystenLabs__walrus-docs
+	url = https://github.com/MystenLabs/walrus-docs.git
+[submodule "move_repos/MesonFi__meson-contracts-sui"]
+	path = move_repos/MesonFi__meson-contracts-sui
+	url = https://github.com/MesonFi/meson-contracts-sui.git
+[submodule "move_repos/Coder-RG__nft-on-sui"]
+	path = move_repos/Coder-RG__nft-on-sui
+	url = https://github.com/Coder-RG/nft-on-sui.git
+[submodule "move_repos/MystenLabs__apps"]
+	path = move_repos/MystenLabs__apps
+	url = https://github.com/MystenLabs/apps.git
+[submodule "move_repos/movebit__movectf2024-day2"]
+	path = move_repos/movebit__movectf2024-day2
+	url = https://github.com/movebit/movectf2024-day2.git
+[submodule "move_repos/suidouble__suidouble8192"]
+	path = move_repos/suidouble__suidouble8192
+	url = https://github.com/suidouble/suidouble8192.git
+[submodule "move_repos/phuquiivo03__dbio"]
+	path = move_repos/phuquiivo03__dbio
+	url = https://github.com/phuquiivo03/dbio.git
+[submodule "move_repos/cocoyes__sui_move_study"]
+	path = move_repos/cocoyes__sui_move_study
+	url = https://github.com/cocoyes/sui_move_study.git
+[submodule "move_repos/0xBoji__sui-transfer"]
+	path = move_repos/0xBoji__sui-transfer
+	url = https://github.com/0xBoji/sui-transfer.git
+[submodule "move_repos/swheel-sui__swheel-tower"]
+	path = move_repos/swheel-sui__swheel-tower
+	url = https://github.com/swheel-sui/swheel-tower.git
+[submodule "move_repos/alhonaut__nft-create"]
+	path = move_repos/alhonaut__nft-create
+	url = https://github.com/alhonaut/nft-create.git
+[submodule "move_repos/stader-labs__Sui-Contracts"]
+	path = move_repos/stader-labs__Sui-Contracts
+	url = https://github.com/stader-labs/Sui-Contracts.git
+[submodule "move_repos/MonkeyGLuffy__random-oracle"]
+	path = move_repos/MonkeyGLuffy__random-oracle
+	url = https://github.com/MonkeyGLuffy/random-oracle.git
+[submodule "move_repos/mohaijiang__my-sui-nft1"]
+	path = move_repos/mohaijiang__my-sui-nft1
+	url = https://github.com/mohaijiang/my-sui-nft1.git
+[submodule "move_repos/Rael202__DeliveryWork"]
+	path = move_repos/Rael202__DeliveryWork
+	url = https://github.com/Rael202/DeliveryWork.git
+[submodule "move_repos/SpartanLabsXyz__spartanlabs-contracts-sui"]
+	path = move_repos/SpartanLabsXyz__spartanlabs-contracts-sui
+	url = https://github.com/SpartanLabsXyz/spartanlabs-contracts-sui.git
+[submodule "move_repos/TheArcadiaGroup__Stake-farm-SUI-contracts"]
+	path = move_repos/TheArcadiaGroup__Stake-farm-SUI-contracts
+	url = https://github.com/TheArcadiaGroup/Stake-farm-SUI-contracts.git
+[submodule "move_repos/AntMessinis__antonis-sui-single-writer-apps"]
+	path = move_repos/AntMessinis__antonis-sui-single-writer-apps
+	url = https://github.com/AntMessinis/antonis-sui-single-writer-apps.git
+[submodule "move_repos/FrankC01__sui-track"]
+	path = move_repos/FrankC01__sui-track
+	url = https://github.com/FrankC01/sui-track.git
+[submodule "move_repos/SuiTechStreams__SuiContarcts"]
+	path = move_repos/SuiTechStreams__SuiContarcts
+	url = https://github.com/SuiTechStreams/SuiContarcts.git
+[submodule "move_repos/EasonC13__Move_Practice"]
+	path = move_repos/EasonC13__Move_Practice
+	url = https://github.com/EasonC13/Move_Practice.git
+[submodule "move_repos/zgfzgf__sui-deepbook"]
+	path = move_repos/zgfzgf__sui-deepbook
+	url = https://github.com/zgfzgf/sui-deepbook.git
+[submodule "move_repos/ccbond__movetool"]
+	path = move_repos/ccbond__movetool
+	url = https://github.com/ccbond/movetool.git
+[submodule "move_repos/EmreKeskin47__SUI-Content"]
+	path = move_repos/EmreKeskin47__SUI-Content
+	url = https://github.com/EmreKeskin47/SUI-Content.git
+[submodule "move_repos/Spydiecy__SUI-Dacade-submission"]
+	path = move_repos/Spydiecy__SUI-Dacade-submission
+	url = https://github.com/Spydiecy/SUI-Dacade-submission.git
+[submodule "move_repos/senior-0015__data-listing-marketplace"]
+	path = move_repos/senior-0015__data-listing-marketplace
+	url = https://github.com/senior-0015/data-listing-marketplace.git
+[submodule "move_repos/ticketland-io__sui-examples"]
+	path = move_repos/ticketland-io__sui-examples
+	url = https://github.com/ticketland-io/sui-examples.git
+[submodule "move_repos/ShallWeMove__SuiMove-Blackjack"]
+	path = move_repos/ShallWeMove__SuiMove-Blackjack
+	url = https://github.com/ShallWeMove/SuiMove-Blackjack.git
+[submodule "move_repos/Metagame-Industries__AW-Token-Move"]
+	path = move_repos/Metagame-Industries__AW-Token-Move
+	url = https://github.com/Metagame-Industries/AW-Token-Move.git
+[submodule "move_repos/movebit__movectf-vietnam-1"]
+	path = move_repos/movebit__movectf-vietnam-1
+	url = https://github.com/movebit/movectf-vietnam-1.git
+[submodule "move_repos/Meta-Pool__staking-pool-sui"]
+	path = move_repos/Meta-Pool__staking-pool-sui
+	url = https://github.com/Meta-Pool/staking-pool-sui.git
+[submodule "move_repos/t3dkich__decentralized-game-coinflip"]
+	path = move_repos/t3dkich__decentralized-game-coinflip
+	url = https://github.com/t3dkich/decentralized-game-coinflip.git
+[submodule "move_repos/simusud__sui-voting"]
+	path = move_repos/simusud__sui-voting
+	url = https://github.com/simusud/sui-voting.git
+[submodule "move_repos/PumpSui__PumpSuiContract"]
+	path = move_repos/PumpSui__PumpSuiContract
+	url = https://github.com/PumpSui/PumpSuiContract.git
+[submodule "move_repos/spo0ds__RPS"]
+	path = move_repos/spo0ds__RPS
+	url = https://github.com/spo0ds/RPS.git
+[submodule "move_repos/rickiey__sui-move-game"]
+	path = move_repos/rickiey__sui-move-game
+	url = https://github.com/rickiey/sui-move-game.git
+[submodule "move_repos/MystenLabs__asset-tokenization"]
+	path = move_repos/MystenLabs__asset-tokenization
+	url = https://github.com/MystenLabs/asset-tokenization.git
+[submodule "move_repos/Foundation3DAO__dao3_contract"]
+	path = move_repos/Foundation3DAO__dao3_contract
+	url = https://github.com/Foundation3DAO/dao3_contract.git
+[submodule "move_repos/TLSingh1__sui_place"]
+	path = move_repos/TLSingh1__sui_place
+	url = https://github.com/TLSingh1/sui_place.git
+[submodule "move_repos/Ganzzi__Sui-move-exercise"]
+	path = move_repos/Ganzzi__Sui-move-exercise
+	url = https://github.com/Ganzzi/Sui-move-exercise.git
+[submodule "move_repos/turbos-finance__turbos-oracle"]
+	path = move_repos/turbos-finance__turbos-oracle
+	url = https://github.com/turbos-finance/turbos-oracle.git
+[submodule "move_repos/swift-mx__suinftmarket"]
+	path = move_repos/swift-mx__suinftmarket
+	url = https://github.com/swift-mx/suinftmarket.git
+[submodule "move_repos/interest-protocol__sui-defi"]
+	path = move_repos/interest-protocol__sui-defi
+	url = https://github.com/interest-protocol/sui-defi.git
+[submodule "move_repos/move-cn__letswap"]
+	path = move_repos/move-cn__letswap
+	url = https://github.com/move-cn/letswap.git
+[submodule "move_repos/channainfo__loyalty-chain"]
+	path = move_repos/channainfo__loyalty-chain
+	url = https://github.com/channainfo/loyalty-chain.git
+[submodule "move_repos/rocknwa__Sui-DEX"]
+	path = move_repos/rocknwa__Sui-DEX
+	url = https://github.com/rocknwa/Sui-DEX.git
+[submodule "move_repos/Web3-Builders-Alliance__MarcoPitra_Sui_1Q24"]
+	path = move_repos/Web3-Builders-Alliance__MarcoPitra_Sui_1Q24
+	url = https://github.com/Web3-Builders-Alliance/MarcoPitra_Sui_1Q24.git
+[submodule "move_repos/SmartDev-0205__sui-staking-contract"]
+	path = move_repos/SmartDev-0205__sui-staking-contract
+	url = https://github.com/SmartDev-0205/sui-staking-contract.git
+[submodule "move_repos/stonelau1__sui-move"]
+	path = move_repos/stonelau1__sui-move
+	url = https://github.com/stonelau1/sui-move.git
+[submodule "move_repos/Worldlens__asset-smc"]
+	path = move_repos/Worldlens__asset-smc
+	url = https://github.com/Worldlens/asset-smc.git
+[submodule "move_repos/avcdsld__sakutaro-poem-nft"]
+	path = move_repos/avcdsld__sakutaro-poem-nft
+	url = https://github.com/avcdsld/sakutaro-poem-nft.git
+[submodule "move_repos/jinpk__suiquid-contracts"]
+	path = move_repos/jinpk__suiquid-contracts
+	url = https://github.com/jinpk/suiquid-contracts.git
+[submodule "move_repos/rickiey__sui_move_start"]
+	path = move_repos/rickiey__sui_move_start
+	url = https://github.com/rickiey/sui_move_start.git
+[submodule "move_repos/spo0ds__BetterKiosk"]
+	path = move_repos/spo0ds__BetterKiosk
+	url = https://github.com/spo0ds/BetterKiosk.git
+[submodule "move_repos/fantasyni__sui-bookshop"]
+	path = move_repos/fantasyni__sui-bookshop
+	url = https://github.com/fantasyni/sui-bookshop.git
+[submodule "move_repos/solendprotocol__suilend"]
+	path = move_repos/solendprotocol__suilend
+	url = https://github.com/solendprotocol/suilend.git
+[submodule "move_repos/MentalistTR__Move-Projects"]
+	path = move_repos/MentalistTR__Move-Projects
+	url = https://github.com/MentalistTR/Move-Projects.git
+[submodule "move_repos/dddappp__sui-interface-demo"]
+	path = move_repos/dddappp__sui-interface-demo
+	url = https://github.com/dddappp/sui-interface-demo.git
+[submodule "move_repos/Web3-Builders-Alliance__sui-course"]
+	path = move_repos/Web3-Builders-Alliance__sui-course
+	url = https://github.com/Web3-Builders-Alliance/sui-course.git
+[submodule "move_repos/suidouble__suidouble-liquid"]
+	path = move_repos/suidouble__suidouble-liquid
+	url = https://github.com/suidouble/suidouble-liquid.git
+[submodule "move_repos/samsends__move-oracle"]
+	path = move_repos/samsends__move-oracle
+	url = https://github.com/samsends/move-oracle.git
+[submodule "move_repos/wispswap-labs__wisp-lsdfi-contract"]
+	path = move_repos/wispswap-labs__wisp-lsdfi-contract
+	url = https://github.com/wispswap-labs/wisp-lsdfi-contract.git
+[submodule "move_repos/LeoQ7__MoveCTF-2024-Writeup"]
+	path = move_repos/LeoQ7__MoveCTF-2024-Writeup
+	url = https://github.com/LeoQ7/MoveCTF-2024-Writeup.git
+[submodule "move_repos/0xNeit__suidoge-contracts"]
+	path = move_repos/0xNeit__suidoge-contracts
+	url = https://github.com/0xNeit/suidoge-contracts.git
+[submodule "move_repos/rn-santos227__03-sui-coins"]
+	path = move_repos/rn-santos227__03-sui-coins
+	url = https://github.com/rn-santos227/03-sui-coins.git
+[submodule "move_repos/jymchng__t-sui"]
+	path = move_repos/jymchng__t-sui
+	url = https://github.com/jymchng/t-sui.git
+[submodule "move_repos/MystenLabs__hacker-house-examples"]
+	path = move_repos/MystenLabs__hacker-house-examples
+	url = https://github.com/MystenLabs/hacker-house-examples.git
+[submodule "move_repos/Danijel-Enoch__move-token-contract"]
+	path = move_repos/Danijel-Enoch__move-token-contract
+	url = https://github.com/Danijel-Enoch/move-token-contract.git
+[submodule "move_repos/leon0x01__Sui_SealedBid_Auction"]
+	path = move_repos/leon0x01__Sui_SealedBid_Auction
+	url = https://github.com/leon0x01/Sui_SealedBid_Auction.git
+[submodule "move_repos/Chomtana__sui-axelar-usdc"]
+	path = move_repos/Chomtana__sui-axelar-usdc
+	url = https://github.com/Chomtana/sui-axelar-usdc.git
+[submodule "move_repos/MentalistTR__WBA_CapStone"]
+	path = move_repos/MentalistTR__WBA_CapStone
+	url = https://github.com/MentalistTR/WBA_CapStone.git
+[submodule "move_repos/movectf__MoveCTF-1st-Challenge"]
+	path = move_repos/movectf__MoveCTF-1st-Challenge
+	url = https://github.com/movectf/MoveCTF-1st-Challenge.git
+[submodule "move_repos/ChainMovers__dtp"]
+	path = move_repos/ChainMovers__dtp
+	url = https://github.com/ChainMovers/dtp.git
+[submodule "move_repos/upupnoah__self-service-lottery"]
+	path = move_repos/upupnoah__self-service-lottery
+	url = https://github.com/upupnoah/self-service-lottery.git
+[submodule "move_repos/vectorisvector__apocalypse"]
+	path = move_repos/vectorisvector__apocalypse
+	url = https://github.com/vectorisvector/apocalypse.git
+[submodule "move_repos/ivmidable__sui-rocket-2024"]
+	path = move_repos/ivmidable__sui-rocket-2024
+	url = https://github.com/ivmidable/sui-rocket-2024.git
+[submodule "move_repos/thounyy__better-stake-sui"]
+	path = move_repos/thounyy__better-stake-sui
+	url = https://github.com/thounyy/better-stake-sui.git
+[submodule "move_repos/interest-protocol__clamm"]
+	path = move_repos/interest-protocol__clamm
+	url = https://github.com/interest-protocol/clamm.git
+[submodule "move_repos/movefuns__move-by-example"]
+	path = move_repos/movefuns__move-by-example
+	url = https://github.com/movefuns/move-by-example.git
+[submodule "move_repos/lutianzhou001__move-a-cribtbit-tree"]
+	path = move_repos/lutianzhou001__move-a-cribtbit-tree
+	url = https://github.com/lutianzhou001/move-a-cribtbit-tree.git
+[submodule "move_repos/suistart__suis-move-staking-contract"]
+	path = move_repos/suistart__suis-move-staking-contract
+	url = https://github.com/suistart/suis-move-staking-contract.git
+[submodule "move_repos/SurfingFinance__surfing-v0"]
+	path = move_repos/SurfingFinance__surfing-v0
+	url = https://github.com/SurfingFinance/surfing-v0.git
+[submodule "move_repos/umi-ag__sui-aggregator-interface"]
+	path = move_repos/umi-ag__sui-aggregator-interface
+	url = https://github.com/umi-ag/sui-aggregator-interface.git
+[submodule "move_repos/coming-chat__object-market"]
+	path = move_repos/coming-chat__object-market
+	url = https://github.com/coming-chat/object-market.git
+[submodule "move_repos/nayakly__Sui-Staking"]
+	path = move_repos/nayakly__Sui-Staking
+	url = https://github.com/nayakly/Sui-Staking.git
+[submodule "move_repos/Bucket-Protocol__oracle"]
+	path = move_repos/Bucket-Protocol__oracle
+	url = https://github.com/Bucket-Protocol/oracle.git
+[submodule "move_repos/MystenLabs__mysticon-legends"]
+	path = move_repos/MystenLabs__mysticon-legends
+	url = https://github.com/MystenLabs/mysticon-legends.git
+[submodule "move_repos/hightop0924__kojiki-sui-dex-launchpad-smartcontract"]
+	path = move_repos/hightop0924__kojiki-sui-dex-launchpad-smartcontract
+	url = https://github.com/hightop0924/kojiki-sui-dex-launchpad-smartcontract.git
+[submodule "move_repos/Fineas__save-the-flag"]
+	path = move_repos/Fineas__save-the-flag
+	url = https://github.com/Fineas/save-the-flag.git
+[submodule "move_repos/JisongImSorry__sui_passport"]
+	path = move_repos/JisongImSorry__sui_passport
+	url = https://github.com/JisongImSorry/sui_passport.git
+[submodule "move_repos/Rei-ne__g5Casino-move"]
+	path = move_repos/Rei-ne__g5Casino-move
+	url = https://github.com/Rei-ne/g5Casino-move.git
+[submodule "move_repos/coming-chat__Dmens"]
+	path = move_repos/coming-chat__Dmens
+	url = https://github.com/coming-chat/Dmens.git
+[submodule "move_repos/phanker__sui_game2048"]
+	path = move_repos/phanker__sui_game2048
+	url = https://github.com/phanker/sui_game2048.git
+[submodule "move_repos/VintageWander__sui-lesson5-6"]
+	path = move_repos/VintageWander__sui-lesson5-6
+	url = https://github.com/VintageWander/sui-lesson5-6.git
+[submodule "move_repos/bilalafzal97__sui_nft_minting_test"]
+	path = move_repos/bilalafzal97__sui_nft_minting_test
+	url = https://github.com/bilalafzal97/sui_nft_minting_test.git
+[submodule "move_repos/TheArcadiaGroup__AMM-for-SUI-contracts"]
+	path = move_repos/TheArcadiaGroup__AMM-for-SUI-contracts
+	url = https://github.com/TheArcadiaGroup/AMM-for-SUI-contracts.git
+[submodule "move_repos/AllinLabs__oracle-on-sui"]
+	path = move_repos/AllinLabs__oracle-on-sui
+	url = https://github.com/AllinLabs/oracle-on-sui.git
+[submodule "move_repos/gmove-io__kraken"]
+	path = move_repos/gmove-io__kraken
+	url = https://github.com/gmove-io/kraken.git
+[submodule "move_repos/bytedeveloperr__filament"]
+	path = move_repos/bytedeveloperr__filament
+	url = https://github.com/bytedeveloperr/filament.git
+[submodule "move_repos/LoyaltyGM__holasui-contract"]
+	path = move_repos/LoyaltyGM__holasui-contract
+	url = https://github.com/LoyaltyGM/holasui-contract.git
+[submodule "move_repos/zmovane__sui-gobang-game"]
+	path = move_repos/zmovane__sui-gobang-game
+	url = https://github.com/zmovane/sui-gobang-game.git
+[submodule "move_repos/Crazyjs123__house_renting"]
+	path = move_repos/Crazyjs123__house_renting
+	url = https://github.com/Crazyjs123/house_renting.git
+[submodule "move_repos/ChillToolNet__SUI-MOVE-BOOTCAMP"]
+	path = move_repos/ChillToolNet__SUI-MOVE-BOOTCAMP
+	url = https://github.com/ChillToolNet/SUI-MOVE-BOOTCAMP.git
+[submodule "move_repos/Seascape-Foundation__miner-sui-smartcontracts"]
+	path = move_repos/Seascape-Foundation__miner-sui-smartcontracts
+	url = https://github.com/Seascape-Foundation/miner-sui-smartcontracts.git
+[submodule "move_repos/suistart__suis-move-contract"]
+	path = move_repos/suistart__suis-move-contract
+	url = https://github.com/suistart/suis-move-contract.git
+[submodule "move_repos/brson__solana-move-demo"]
+	path = move_repos/brson__solana-move-demo
+	url = https://github.com/brson/solana-move-demo.git
+[submodule "move_repos/sui-foundation__sui-move-intro-course"]
+	path = move_repos/sui-foundation__sui-move-intro-course
+	url = https://github.com/sui-foundation/sui-move-intro-course.git
+[submodule "move_repos/nayakly__Sui-Todolist"]
+	path = move_repos/nayakly__Sui-Todolist
+	url = https://github.com/nayakly/Sui-Todolist.git
+[submodule "move_repos/icis-04__dacademarket"]
+	path = move_repos/icis-04__dacademarket
+	url = https://github.com/icis-04/dacademarket.git
+[submodule "move_repos/jbkim1999__shall_we_move"]
+	path = move_repos/jbkim1999__shall_we_move
+	url = https://github.com/jbkim1999/shall_we_move.git
+[submodule "move_repos/0xriazaka__Gigo-Cards-NFTs"]
+	path = move_repos/0xriazaka__Gigo-Cards-NFTs
+	url = https://github.com/0xriazaka/Gigo-Cards-NFTs.git
+[submodule "move_repos/0xBoji__sui_lesson_07"]
+	path = move_repos/0xBoji__sui_lesson_07
+	url = https://github.com/0xBoji/sui_lesson_07.git
+[submodule "move_repos/vijay-kesanakurthi__suid"]
+	path = move_repos/vijay-kesanakurthi__suid
+	url = https://github.com/vijay-kesanakurthi/suid.git
+[submodule "move_repos/Sumair125__Sabout"]
+	path = move_repos/Sumair125__Sabout
+	url = https://github.com/Sumair125/Sabout.git
+[submodule "move_repos/uvd__start-sui-move"]
+	path = move_repos/uvd__start-sui-move
+	url = https://github.com/uvd/start-sui-move.git
+[submodule "move_repos/mukoyanichris__Co-Invest-Club"]
+	path = move_repos/mukoyanichris__Co-Invest-Club
+	url = https://github.com/mukoyanichris/Co-Invest-Club.git
+[submodule "move_repos/upupnoah__move-x"]
+	path = move_repos/upupnoah__move-x
+	url = https://github.com/upupnoah/move-x.git
+[submodule "move_repos/yjshi2015__stream_pay"]
+	path = move_repos/yjshi2015__stream_pay
+	url = https://github.com/yjshi2015/stream_pay.git
+[submodule "move_repos/overmind-xyz__sui-marketplace"]
+	path = move_repos/overmind-xyz__sui-marketplace
+	url = https://github.com/overmind-xyz/sui-marketplace.git
+[submodule "move_repos/abcd5251__Avatar_tutor"]
+	path = move_repos/abcd5251__Avatar_tutor
+	url = https://github.com/abcd5251/Avatar_tutor.git
+[submodule "move_repos/phuquiivo03__new-wecastle"]
+	path = move_repos/phuquiivo03__new-wecastle
+	url = https://github.com/phuquiivo03/new-wecastle.git
+[submodule "move_repos/rickiey__sui-move-ft"]
+	path = move_repos/rickiey__sui-move-ft
+	url = https://github.com/rickiey/sui-move-ft.git
+[submodule "move_repos/michaelliao__avatar-nft"]
+	path = move_repos/michaelliao__avatar-nft
+	url = https://github.com/michaelliao/avatar-nft.git
+[submodule "move_repos/mseong123__crypto_will"]
+	path = move_repos/mseong123__crypto_will
+	url = https://github.com/mseong123/crypto_will.git
+[submodule "move_repos/aldrin-labs__refund-contract"]
+	path = move_repos/aldrin-labs__refund-contract
+	url = https://github.com/aldrin-labs/refund-contract.git
+[submodule "move_repos/Shoukozumi__Refract-Playbook-PoC"]
+	path = move_repos/Shoukozumi__Refract-Playbook-PoC
+	url = https://github.com/Shoukozumi/Refract-Playbook-PoC.git
+[submodule "move_repos/ecorey__SUI-Move-Bootcamp-Final-Project"]
+	path = move_repos/ecorey__SUI-Move-Bootcamp-Final-Project
+	url = https://github.com/ecorey/SUI-Move-Bootcamp-Final-Project.git
+[submodule "move_repos/blockchainlover2019__zombie-house"]
+	path = move_repos/blockchainlover2019__zombie-house
+	url = https://github.com/blockchainlover2019/zombie-house.git
+[submodule "move_repos/Q4Qoph__Events_Ticket"]
+	path = move_repos/Q4Qoph__Events_Ticket
+	url = https://github.com/Q4Qoph/Events_Ticket.git
+[submodule "move_repos/boonyeow__crowd9_sc"]
+	path = move_repos/boonyeow__crowd9_sc
+	url = https://github.com/boonyeow/crowd9_sc.git
+[submodule "move_repos/nayakly__Sui-DAO"]
+	path = move_repos/nayakly__Sui-DAO
+	url = https://github.com/nayakly/Sui-DAO.git
+[submodule "move_repos/movebit__sui-move-analyzer"]
+	path = move_repos/movebit__sui-move-analyzer
+	url = https://github.com/movebit/sui-move-analyzer.git
+[submodule "move_repos/MystenLabs__multisig-move"]
+	path = move_repos/MystenLabs__multisig-move
+	url = https://github.com/MystenLabs/multisig-move.git
+[submodule "move_repos/Sui-Volo__volo-liquid-staking-contracts"]
+	path = move_repos/Sui-Volo__volo-liquid-staking-contracts
+	url = https://github.com/Sui-Volo/volo-liquid-staking-contracts.git
+[submodule "move_repos/CalvaryFisher__Move-Sui-Gas-Optimization-Patterns"]
+	path = move_repos/CalvaryFisher__Move-Sui-Gas-Optimization-Patterns
+	url = https://github.com/CalvaryFisher/Move-Sui-Gas-Optimization-Patterns.git
+[submodule "move_repos/DevloperHS__sui-env"]
+	path = move_repos/DevloperHS__sui-env
+	url = https://github.com/DevloperHS/sui-env.git
+[submodule "move_repos/dacadeorg__sui-move-deepbook"]
+	path = move_repos/dacadeorg__sui-move-deepbook
+	url = https://github.com/dacadeorg/sui-move-deepbook.git
+[submodule "move_repos/lisuify__lisuify"]
+	path = move_repos/lisuify__lisuify
+	url = https://github.com/lisuify/lisuify.git
